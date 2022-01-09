@@ -1,0 +1,33 @@
+step1:
+
+	take 3 input values from console.
+	Example:Enter a value   --> 6
+		Enter b value ----> 2
+		Enter b value ----> 2
+
+step2:
+	Calculated matematicalexpressions such as
+	a+b*c
+	a*b+c
+	c+a/b
+	a%b+c
+
+
+step3: Store the resluts in a Dictionary for everry  Computational value.
+	Example:
+		results[c1]=10
+		results[c2]=5
+		results[c3]=14
+		results[c4]=2
+step4: Read the values from the Dictionary into the array
+
+	Example: [10 5 14 2]
+
+step5: Sort the results to show the Computation results in descending order
+
+	Example: 14
+		 10
+		 5
+		 2
+step6: Sort the results to show the Computation results in Ascending order
+	

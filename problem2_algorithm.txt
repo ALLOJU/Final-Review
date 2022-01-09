@@ -1,0 +1,28 @@
+step1:
+	As a Simulator start with Flipping a Coin to
+	Display Heads or Tails by using random() function.
+	Example:
+		flipCoin=$((RANDOM%2))	
+		H T
+step2:
+	As a simulator, loop through Multiple times of flipping a
+	coin store the Singlet Combination in a Dictionary.
+	Finally determine the percentage of the Singlet
+	Combination
+	Example:
+	All head and tail combination: H T
+	
+
+step3:
+	As a simulator, loop to create a Doublet Combination. Store the
+	doublet combination as well as the percentage.		
+	Example:
+	All head and tail combination: HH HT TH TT
+step4:
+	As a simulator, loop to create a Triplet Combination. Store the
+	Triplet combination as well as the percentage.
+	All head and tail combination: HHH, HHT, HTH, THH, TTH, THT, HTT, TTT
+
+step5:
+ 	sort the Singlet, Doublet and Triplet combination and show the winning
+        combination
